@@ -1,4 +1,4 @@
-# Multi-Cloud DevSecOps Project
+# Multi-Cloud DevSecOps Automation
 
 This project demonstrates a multi-cloud **DevSecOps** pipeline with complete automation, deployment, and monitoring using tools and services from both **AWS** and **Azure**. The pipeline integrates security testing tools like **SonarQube** and **OWASP ZAP** and leverages **Terraform** for infrastructure automation. Monitoring and observability are achieved through **Grafana**, **Prometheus**, **Loki**, and **Promtail**.
 
